@@ -2,12 +2,11 @@
 🌐 A dedicated web developer from Pakistan</h3>
 <img allign="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> <p align="left">
 <img src="https://komarev.com/ghpvc/?username=afham-khan&label=Profile%20views&color=0e75b6&style=flat" alt="afham-khan" /> </p> <p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afham-khan" alt="afham-khan" /></a> 
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 250px;">
     <p>
-      💻 Frontend-first full-stack dev surviving 2 years of production chaos, crafting fast, clean, and user-friendly web apps with React.js & Next.js.
+      💻 Frontend-dev surviving 1 years of production chaos, crafting fast, clean, and user-friendly web apps with React.js & Next.js.
     </p>
     <p>
       🏗️ Built dashboards, multi-tenant apps, landing pages, and scalable systems — obsessed with performance, clean structure, and maintainability (future-me says thanks).
@@ -50,12 +49,6 @@
 ---
 
 ### 📊 GitHub Analytics
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afham-khan&show_icons=true&locale=en&layout=compact" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=afham-khan&show_icons=true&locale=en" />
-</p>
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=afham-khan" />
 </p>
