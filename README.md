@@ -1,5 +1,8 @@
-<h1>Hi 👋, I'm Afham Khan</h1>
-<h3>Front-End Engineer | React • Next.js • TypeScript</h3>
+<h1 align="center">Hi 👋, I'm Afham khan</h1> <h3 align="center">
+🌐 A dedicated web developer from Pakistan</h3>
+<img allign="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> <p align="left">
+<img src="https://komarev.com/ghpvc/?username=afham-khan&label=Profile%20views&color=0e75b6&style=flat" alt="afham-khan" /> </p> <p align="left">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afham-khan" alt="afham-khan" /></a> 
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 250px;">
@@ -17,11 +20,6 @@
     </p>
   </div>
   
-  <div style="flex: 1; min-width: 200px; text-align: right;">
-    <img alt="coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-  </div>
-</div>
-
 ---
 
 ### 🛠 Tech Stack
@@ -29,7 +27,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
