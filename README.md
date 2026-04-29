@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Afham Khan</h1>
 <h3 align="center">🌐 A dedicated web developer from Pakistan</h3>
-
 <p align="center">
   <img alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=afham-khan&label=Profile%20views&color=0e75b6&style=flat" alt="afham-khan" />
 </p>
@@ -14,11 +12,8 @@
 ### 💡 About Me
 
 💻 Frontend-dev surviving 1 year of production chaos, crafting fast, clean, and user-friendly web apps with React.js & Next.js.  
-
 🏗️ Built dashboards, multi-tenant apps, landing pages, and scalable systems — focused on performance, clean structure, and maintainability.  
-
 🎮 Off the keyboard? Gaming, vibing to Radiohead, or refining things that are already solid.  
-
 🎓 Currently sharpening my full-stack capabilities within the MERN ecosystem.  
 
 ---
@@ -28,6 +23,14 @@
 | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/> |
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=afham-khan&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+</p>
 
 ---
 
@@ -43,4 +46,12 @@
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=afham-khan&theme=dark&hide_border=true"/>
+</p>
+
+---
+
+### 💬 Dev Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
