@@ -1,62 +1,88 @@
-<h1 align="center">Hi 👋, I'm Afham Khan</h1>
-<h3 align="center">🌐 A dedicated web developer from Pakistan</h3>
+<h2 align="center">Hi, I'm Afham Khan 👋</h2>
 
-<p align="center">
-  <img alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=afham-khan&label=Profile%20views&color=0e75b6&style=flat" alt="afham-khan" />
-</p>
+<p align="center">Full Stack Developer · React & Next.js · Karachi, Pakistan</p>
 
 ---
 
-### 💡 About Me
+💻 Full Stack Developer with a front-end core and a year of shipping to production. I take a feature from the design file to a working screen, wire it to the API, and stay with it until it holds up for the people who use it every day.
 
-💻 Frontend-dev surviving 1 year of production chaos, crafting fast, clean, and user-friendly web apps with React.js & Next.js.  
-
-🏗️ Built dashboards, multi-tenant apps, landing pages, and scalable systems — focused on performance, clean structure, and maintainability.  
-
-🎮 Off the keyboard? Gaming, vibing to Radiohead, or refining things that are already solid.  
-
-🎓 Currently sharpening my full-stack capabilities within the MERN ecosystem.  
-
----
-
-### 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" height="48"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48"/>
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="48" height="48"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48"/>
-</p>
+- 🚀 Building **Rollpay**, a multi-tenant gym management SaaS live across **60+ gyms**, where I own the web app's front end: UI, state, API integration and structure
+- 🧩 I ship whole modules, not just screens: voice commands, a multi-language system, a recurring-class calendar, analytics and the home dashboard
+- 🛠️ Full stack since 2026, writing the **Node.js** endpoints and **PostgreSQL** queries behind the features I build on the front end
+- 🎨 I care about what users actually notice: consistent spacing, light and dark themes, and screens that work on an old iPad kiosk as well as a new laptop
+- 🎓 Software Engineering student at Sindh Madressatul Islam University, studying and working side by side
+- 🎮 Off the keyboard? Gaming, or tuning a PC that was already running fine
 
 ---
 
-### 📫 Connect With Me
+## 🧰 Tech Stack
 
-| | |
-|---|---|
-| <a href="https://fb.com/m.afhamkhan" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="40"/></a> | <a href="https://instagram.com/afham._.khan" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40"/></a> |
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Knex.js](https://img.shields.io/badge/Knex.js-D26B38?style=flat-square&logo=knexdotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Apidog](https://img.shields.io/badge/Apidog-6C47FF?style=flat-square&logoColor=white)
 
 ---
 
-### 📊 GitHub Analytics
+## 📌 Featured Work
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afham-khan&theme=dark&hide_border=true"/>
-</p>
+**🏋️ Rollpay** is a multi-tenant gym management SaaS: memberships, check-ins, billing and reporting for 60+ gyms from one codebase. The code is private, so here is what I built inside it.
+
+| Module | What It Does |
+|--------|--------------|
+| 🎙️ **Voice Commands** | Say where to go or what to filter, and the app opens the page, applies the filters and dates, and answers with the figure you asked for |
+| 🌍 **Multi-language** | A translation system that serves the whole app in English and Portuguese (Brazil and Portugal), with a check that catches missing text before release |
+| 📅 **Calendar** | One calendar for every class, with recurring schedules and class rules, built on both the front end and the API |
+| 📊 **Analytics** | A ground-up rewrite of the reporting pages, with date ranges, filters and charts gym owners read daily |
+| 🏠 **Home & Front Desk** | A redesigned home dashboard and a front-desk view for staff, backed by a new summary endpoint |
+| 🥋 **Affiliation Portal** | Tools for academy networks: directories, member academies and a custom-built node canvas with no diagram library |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Afham-Khan&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🌱 Currently
+
+- Going deeper on the backend: API design, schema design and query performance in PostgreSQL
+- Building full-stack projects of my own to pin here next
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/afham-khan-8063542b8/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-js-six-iota.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afhamulhaq12345@gmail.com)
+
+---
+
+<div align="center">
+  <sub>Open to full-stack and front-end roles. Feel free to reach out.</sub>
+</div>
